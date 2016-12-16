@@ -9,7 +9,7 @@
         <tcpOptions soReuseAddr="true"/>
     </httpEndpoint>
 
-    <application name="JavaHelloWorldApp" context-root="/JavaHelloWorldApp" location="${appLocation}" type="war"/>
+    <application name="JavaHelloWorldApp01" context-root="/JavaHelloWorldApp01" location="${appLocation}" type="war"/>
 
     <httpSession cookieDomain=".mybluemix.net"/>
 </server>
