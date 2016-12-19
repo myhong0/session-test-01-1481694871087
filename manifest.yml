@@ -1,4 +1,5 @@
 applications:
+- name: session-test-01
   memory: 512M
   instances: 1
   domain: mybluemix.net
